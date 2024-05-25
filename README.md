@@ -50,8 +50,7 @@ Student Login:
 The exam form includes an auto-submission feature that ensures the exam is submitted automatically once the time limit is reached. 
 This helps in maintaining the integrity and fairness of the examination process.
 
-Project Structure
-src/: Contains all the Java source files.
+<h3>Project Structure</h3>
+src/:  Contains all the Java source files.
 lib/: Contains any external libraries required for the project.
-resources/: Contains any resources such as SQL scripts or configuration files.
-README.md: This file.
+resources/:  Contains any resources such as SQL scripts or configuration files.
