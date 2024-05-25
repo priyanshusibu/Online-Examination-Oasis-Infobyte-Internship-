@@ -42,7 +42,7 @@ Usage<br>
 1. Admin Login:<br>
 • Use the admin credentials to log in to the admin panel.<br>
 • Add new students, set up exams, and manage student information.<br>
-Student Login:<br>
+2. Student Login:<br>
 • Students log in using the credentials provided by the admin.<br>
 • After logging in, students can update their password, appear for exams, and view their results.<br>
 
